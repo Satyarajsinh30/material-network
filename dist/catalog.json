@@ -1,0 +1,12 @@
+{
+  "seller": { "name": "Navjyot Engineering", "location": "Bakrol, Ahmedabad", "whatsapp": "919978441381", "website": "https://www.navjyotengineering.com", "networkVerified": true },
+  "demo": true,
+  "materials": [
+    { "id": "EX-001", "name": "Mild steel round bar", "category": "Mild steel", "grade": "Grade to be confirmed", "shape": "Round bar", "dimensions": "Ø 50 × 300 mm", "quantity": "2 pieces", "type": "round", "tone": "steel", "note": "Example of a short bar suitable for a small turning job. Actual stock, grade and usable dimensions must be confirmed." },
+    { "id": "EX-002", "name": "Aluminium plate", "category": "Aluminium", "grade": "Grade to be confirmed", "shape": "Plate", "dimensions": "200 × 150 × 20 mm", "quantity": "1 piece", "type": "plate", "tone": "silver", "note": "Example of a plate remnant for machining. Ask for the actual alloy, condition and dimensions." },
+    { "id": "EX-003", "name": "Stainless steel round bar", "category": "Stainless steel", "grade": "Grade to be confirmed", "shape": "Round bar", "dimensions": "Ø 25 × 450 mm", "quantity": "3 pieces", "type": "round", "tone": "silver", "note": "Example of stainless bar remnants. The precise stainless grade and any supporting records must be checked." },
+    { "id": "EX-004", "name": "Brass round bar", "category": "Brass", "grade": "Grade to be confirmed", "shape": "Round bar", "dimensions": "Ø 30 × 180 mm", "quantity": "1 piece", "type": "round", "tone": "brass", "note": "Example of a brass offcut for a small component. Confirm actual stock and alloy before planning a job." },
+    { "id": "EX-005", "name": "Mild steel flat bar", "category": "Mild steel", "grade": "Grade to be confirmed", "shape": "Flat bar", "dimensions": "75 × 20 × 350 mm", "quantity": "2 pieces", "type": "flat", "tone": "steel", "note": "Example of a flat bar remnant. Request actual dimensions, condition and a photo with a measuring scale." },
+    { "id": "EX-006", "name": "Aluminium round bar", "category": "Aluminium", "grade": "Grade to be confirmed", "shape": "Round bar", "dimensions": "Ø 60 × 220 mm", "quantity": "1 piece", "type": "round", "tone": "silver", "note": "Example of an aluminium round bar remnant. Ask for the exact alloy and usable length available." }
+  ]
+}
