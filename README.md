@@ -2,6 +2,12 @@
 
 Buildless, mobile-friendly pilot catalog. Serve `dist/` with any static host. No buyer login or app installation required.
 
+**Live pilot:** [material-network.vercel.app](https://material-network.vercel.app/)
+
+## Deployment
+
+The GitHub repository is connected to Vercel. Push updates to `main` to deploy them automatically. Use the `Other` framework preset, the repository root as Root Directory, and `dist` as Output Directory. Build and Install Commands are overridden and empty; no environment variables are required.
+
 ## Updating the inventory
 
 Edit `dist/catalog.json` and redeploy. The catalog now contains one seller-reported EN8 D stock lot, NAV-001, with three supplied workshop photos. Approximately 4 tonnes is the combined quantity across all lengths, not a quantity per length. Keep specs as seller stated until documentation is supplied. Update the stock notice in `index.html` alongside catalog changes. Original photo files are copied without alteration into `dist/assets/`.
